@@ -9,7 +9,6 @@
 	<test name="Login to Hotel Page">
 		<classes>
 			<class name="tests.HotelLogin" />
-			<class name="tests.SmokeTest"/>
 		</classes>
 	</test>
 </suite>
